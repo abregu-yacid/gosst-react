@@ -1,0 +1,8 @@
+.left-options{
+    background-color: white;
+    border:1px solid #c3b8b8;
+    grid-area: 2 / 1 / 3 /2;
+    padding: 3px;
+    z-index : 100;
+}
+

@@ -1,0 +1,33 @@
+.left-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    label{
+        font-size: 34px;
+        cursor: default;
+    }
+    button{
+        font-size: 12px;
+    }
+    
+}
+
+.left-sub-modules{
+    ul{
+        padding-inline-start: 0;
+        text-align: center;
+        li{
+            margin-top: 10px;
+            a{
+                color: black;
+            }
+            a:hover{
+                color: #238075;
+                font-weight: 700;
+            }
+        }
+        
+    
+    }
+}
+

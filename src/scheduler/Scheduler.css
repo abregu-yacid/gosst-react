@@ -1,0 +1,27 @@
+.scheduler-container {
+    width : 100%;
+    height : 100%;
+}
+.event{
+    background-color: #238075;
+    color :white;
+    cursor : pointer;
+}
+.dhx_cal_tab.active,
+.dhx_cal_tab.active:hover{
+    background-color: #238075;
+    color : white;
+}
+.dhx_cal_tab{
+    border-color: #238075;
+    color: #238075;
+}
+.dhx_cal_today_button{
+    color :#948888;
+}
+.dhx_cal_prev_button{
+    background-image: url("../images/arrow_left.png");
+}
+.dhx_cal_next_button{
+    background-image: url("../images/arrow_right.png");
+}
